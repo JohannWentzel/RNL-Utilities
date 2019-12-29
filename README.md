@@ -1,7 +1,7 @@
 ## RNL Utilities 
 Supplementary code for the CHI 2020 paper: "Improving Virtual Reality Ergonomics through Reach-Bounded Non-Linear Input Amplification"
 
-## Usage
+### Usage
 Assign these to a new GameObject and give the reference to that GameObject to whatever part of your code requires it.
 
 ### HandTranslationAmplifier.cs
